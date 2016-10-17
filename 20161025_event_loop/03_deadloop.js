@@ -1,7 +1,7 @@
 /***********************************************/
 /* Do you have a dead loop with EventEmitter?  */
-/* - uncomment the lines                       */
-/* $ node 03_deadloop.js                       */
+/*  - uncomment the lines                      */
+/*  $ node 03_deadloop.js                      */
 /***********************************************/
 var EventEmitter = require('events');
 
